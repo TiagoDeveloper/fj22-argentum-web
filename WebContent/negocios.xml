@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<pessoa>
+		<nome>Tiago</nome>
+		<idade>26</idade>
+		<sexo>M</sexo>
+	</pessoa>
+</list>
